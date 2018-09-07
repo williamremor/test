@@ -32,5 +32,7 @@ Jdnskfjndskf
 
 ### Google
 
-![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_0.png)![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_1.png)
+![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_0.png)
+
+![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_1.png)![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_2.png)
 
