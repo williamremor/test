@@ -1,5 +1,5 @@
 ---
-title: MicroDapps - MyBit
+title: Test doc
 layout: post
 author: william
 permalink: /microdapps---mybit/
@@ -8,7 +8,13 @@ published: true
 ---
 **MicroDapps - MyBit**
 
-**Goal: **
+**## Goal: **
+
+**Test out G Docs integration with documentation software and git.**
+
+* **Lucidcharts**
+
+* **Git markdown **
 
 Sbdjdhbf
 
@@ -25,4 +31,6 @@ Jdnskfjndskf
 ### Google
 
 ### Google
+
+![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_0.png)![image alt text]({{ site.url }}/public/LVJefFOIax0KeHmvDFDGg_img_1.png)
 
